@@ -7,4 +7,5 @@ dist/
 venv/
 .env
 logs/
-.pytest_cache/
+.pytest_cache
+all_jobs_raw.json
